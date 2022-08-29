@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development , DSA, UI/UX, C++**
+- 🌱 I’m currently learning **Web Development , DSA in C++ and Machine learning**
 
 - 📫 How to reach me **harshilgpta2003@gmail.com**
 
