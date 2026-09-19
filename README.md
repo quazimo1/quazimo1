@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Harshil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Harshil Gupta
 
-- 🌱 I’m currently learning **Web Development , DSA in C++ and Machine learning**
+I'm a graphics software engineer working on Windows GPU display drivers. I enjoy solving problems close to the hardware: debugging complex system behavior, understanding specifications, and building reliable software in C and C++.
 
-- 📫 How to reach me **harshilgpta2003@gmail.com**
+My current interests include GPU and display systems, computer architecture, embedded systems, FPGA design, and performance-oriented software.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshil gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/140rsh1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="140rsh1l" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/whyppitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whyppitch" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/quazimo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="quazimo" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/quazimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="quazimo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/quazimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quazimo" height="30" width="40" /></a>
-</p>
+## What I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Languages:** C, C++, Python, SystemVerilog
+- **Systems:** Windows kernel-mode development, low-level debugging, hardware/software interfaces
+- **Graphics and display:** GPU display drivers, DisplayPort, HDMI
+- **Tools and workflows:** Git, Visual Studio, Linux, RTL simulation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quazimo1&show_icons=true&locale=en&layout=compact" alt="quazimo1" /></p>
+## Featured projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quazimo1&show_icons=true&locale=en" alt="quazimo1" /></p>
+### [Voxel ray tracer](https://github.com/quazimo1/voxel-ray-tracer)
+
+An exploration of hardware-accelerated voxel rendering. The repository currently contains a C++ reference implementation of the 3D DDA traversal algorithm and a basic SystemVerilog DDA engine with a simulation testbench. FPGA synthesis and integration into a larger renderer are the next milestones.
+
+### [Technical portfolio](https://quazimo1.github.io/Dump/)
+
+Notes and project write-ups covering C++, graphics and display systems, FPGA development, and low-level engineering.
+
+## Currently building
+
+- Deeper foundations in computer systems and architecture
+- Practical FPGA and RTL design skills
+- Stronger data structures and algorithms fundamentals in C++
+- Systems projects that connect software, drivers, and hardware
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/harshil-gupta-42789421a/)
+- [Portfolio](https://quazimo1.github.io/Dump/)
