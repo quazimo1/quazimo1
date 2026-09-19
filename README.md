@@ -17,10 +17,6 @@ My current interests include GPU and display systems, computer architecture, emb
 
 An exploration of hardware-accelerated voxel rendering. The repository currently contains a C++ reference implementation of the 3D DDA traversal algorithm and a basic SystemVerilog DDA engine with a simulation testbench. FPGA synthesis and integration into a larger renderer are the next milestones.
 
-### [Technical portfolio](https://quazimo1.github.io/Dump/)
-
-Notes and project write-ups covering C++, graphics and display systems, FPGA development, and low-level engineering.
-
 ## Currently building
 
 - Deeper foundations in computer systems and architecture
@@ -31,4 +27,3 @@ Notes and project write-ups covering C++, graphics and display systems, FPGA dev
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/harshil-gupta-42789421a/)
-- [Portfolio](https://quazimo1.github.io/Dump/)
